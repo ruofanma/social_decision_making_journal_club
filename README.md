@@ -8,7 +8,7 @@ A journal club started by Ruofan meets twice a week to discuss readings on this 
 
 ## Time 时间
 January 10, 2022 - March 18, 2022｜2022年1月10日至3月18日
-Tuesdays and Fridays 8am-10:15am EST | 北京时间每周五晚上9点至10点15
+Tuesdays and Fridays 8am-9:15am EST | 北京时间每周五晚上9点至10点15
 
 Occasional adjustments to the schedule are made to accommodate availability of the journal club members. Please check the schedule below to confirm the actual presentation time. 具体会议时间会有时会有调整，请以下面的具体日程安排为准。
 
