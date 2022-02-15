@@ -42,6 +42,4 @@ https://voovmeeting.com/dm/5k65JLrNrUXP
 | 02/29 | Wang, Xin<br> 王鑫 | Quail, S. L., Morris, R. W., & Balleine, B. W. (2017). Stress associated changes in Pavlovian-instrumental transfer in humans. Quarterly journal of experimental psychology, 70(4), 675-685. |
 | 03/04 | Li, Xintong<br> 李昕彤 | Siegel, J. Z., Mathys, C., Rutledge, R. B., & Crockett, M. J. (2018). Beliefs about bad people are volatile. Nature human behaviour, 2(10), 750-756. |
 | 03/08 | Zhou, Tingting<br> 周婷婷 | Vanyukov, P. M., Hallquist, M. N., Delgado, M., Szanto, K., & Dombrovski, A. Y. (2019). Neurocomputational mechanisms of adaptive learning in social exchanges. Cognitive, Affective, & Behavioral Neuroscience, 19(4), 985-997. |
-| 03/11 | Li, Yuhang<br> 李宇航 | Yoshida, W., Dolan, R. J., & Friston, K. J. (2008). Game theory of mind. PLoS computational biology, 4(12), e1000254. |
-| 03/15 (paper suggested by Zhang, Lei) | Xie, Hanbo<br> 谢涵博 | Zhang, L., & Gläscher, J. (2020). A brain network supporting social influences in human decision-making. Science advances, 6(34), eabb4159.|
-| 03/18 | TBD | Shenhav, A., Botvinick, M. M., & Cohen, J. D. (2013). The expected value of control: an integrative theory of anterior cingulate cortex function. Neuron, 79(2), 217-240.
+| 03/11 | Li, Yuhang<br> 李宇航 | Yoshida, W., Dolan, R. J., & Friston, K. J. (2008). Game theory of mind. PLoS computational biology, 4(12), e1000254. 
